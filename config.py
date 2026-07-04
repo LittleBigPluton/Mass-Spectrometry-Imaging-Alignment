@@ -21,3 +21,4 @@ aligned_data_dir.mkdir(parents=True, exist_ok=True)
 # Define data files that aligned
 reference_file = "20240409_NZ10_6_04042024_CLMC.txt"
 sample_file = "20240408_NZ5_6_04042024_CLMC.txt"
+tolerance = 0.0005
